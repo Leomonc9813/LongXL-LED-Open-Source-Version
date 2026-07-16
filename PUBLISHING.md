@@ -34,9 +34,7 @@ normalized. Two verifications back this up:
 
 ## 2. Before you publish — checklist
 
-- [ ] Put the real author/company name into the copyright line of `LICENSE`
-      (currently a placeholder: "WS2812-STC8G1K08A firmware authors").
-      If the firmware was written by (or for) your company, use that name.
+- [x] Copyright line in `LICENSE` is attributed to **LongXL**.
 - [ ] Confirm you have the right to open-source all of it. The two bundled
       vendor files (`STC8G.H`, `STARTUP.A51`) are routinely redistributed in
       open-source 8051 projects and are flagged as third-party in `LICENSE`.
